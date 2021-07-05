@@ -23,6 +23,8 @@ public class JobSchedular {
 		for (Center center : centers) {
 			System.out.println(center);
 		}
+		
+		System.out.println("Good Night");
 
 	}
 
