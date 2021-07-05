@@ -20,8 +20,5 @@ public class UlhasnagarVaccineTrackerApplication {
 		return new RestTemplate();
 	}
 	
-	public void add() {
-		System.out.println("hello");
-	}
 
 }
