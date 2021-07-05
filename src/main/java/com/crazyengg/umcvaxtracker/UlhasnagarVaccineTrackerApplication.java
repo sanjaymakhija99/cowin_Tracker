@@ -8,6 +8,7 @@ import org.springframework.web.client.RestTemplate;
 
 @SpringBootApplication
 @EnableScheduling
+// This is used for vaccine Tracker
 public class UlhasnagarVaccineTrackerApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(UlhasnagarVaccineTrackerApplication.class, args);
