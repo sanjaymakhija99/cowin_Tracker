@@ -24,7 +24,7 @@ public class JobSchedular {
 			System.out.println(center);
 		}
 		
-		System.out.println("Good Night");
+		System.out.println("Good Morning");
 
 	}
 
